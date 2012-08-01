@@ -1,7 +1,6 @@
 '''
 Created on Mar 31, 2011
 
-@author: jlchandr
 '''
 from _winreg import *
 import socket,re
