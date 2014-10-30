@@ -1,5 +1,5 @@
 '''
-Created on Mar 31, 2011
+Created on Mar 31, 2011 . This is from Jijoy
 
 '''
 from _winreg import *
